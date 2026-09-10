@@ -23,32 +23,49 @@ Computer Engineering Student @ Cairo University | 🏆 1st Place – TCCD Resear
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
 </p>
 ### 💼 Projects
  
-**🏆 [GramNet / Tracera — Deepfake Detection Research](https://linktr.ee/tracera67)**
-Led modeling work on a deepfake detection framework combining Gram matrix eigenvalue analysis (VGG-16) with a dual-head XGBoost classifier for detection + source attribution.
-`📊 93% AUC` · `86.82% Accuracy` · `160K images, 26+ architectures`
+**🏆 [GramNet / Tracera — Deepfake Detection Research](https://linktr.ee/tracera67)**  
+Led modeling work on a deepfake detection framework combining Gram matrix eigenvalue analysis (VGG-16) with a dual-head XGBoost classifier for detection + source attribution.  
+`📊 93% AUC` · `86.82% Accuracy` · `160K images, 26+ architectures`  
 🏅 **1st Place** — 15th TCCD Research Day, Cairo University (2025)
- 
-**Restaurant Management System** — `C++`
-Full restaurant management system using custom queues, stacks, and linked lists for order scheduling and customer queuing.
- 
-**Medical Robot Control System** — `ARM Assembly` `STM32F407`
+
+**☕ [Rawwaq — Smart Coffee Blending Engine](https://github.com/mohamed-55ai/Rawwaq)** · [🌐 Live Demo](https://rawwaq.vercel.app) — `Next.js` `FastAPI` `TypeScript` `Python`  
+Intelligent coffee profiling and roastery recommendation engine powered by Coffee Quality Institute (CQI) data analysis, extraction physics, and authentic Egyptian blends.
+
+**🏭 [Predictive Maintenance System](https://github.com/mohamed-55ai/predictive-maintenance-system)** — `Python` `XGBoost` `Streamlit` `Scikit-Learn`  
+Two-stage machine learning system predicting equipment failure and diagnosing failure modes (TWF, HDF, PWF, OSF, RNF) optimized for Recall on AI4I 2020 dataset with interactive Streamlit dashboard.
+
+**🏡 [House Price Prediction](https://github.com/mohamed-55ai/House_Price_Prediction)** — `Python` `Scikit-Learn` `Pandas`  
+End-to-end regression pipeline on Kaggle Ames Housing dataset with advanced feature engineering, target skewness handling, and GridSearchCV tuning.  
+`🏆 Kaggle Leaderboard Score: 0.14405 RMSLE`
+
+**🍽️ [Restaurant Management System](https://github.com/mohamed-55ai/DS_Restaurant-System-Project)** — `C++`  
+Full restaurant management system utilizing custom data structures (queues, stacks, linked lists) for optimal order scheduling and customer queuing.
+
+**📚 [NTI Machine Learning Projects](https://github.com/mohamed-55ai/NTI-ML-Projects)** — `Python` `Jupyter Notebook`  
+Curated collection of practical machine learning pipelines, EDA, and model evaluation projects built during NTI training.
+
+**🤖 Medical Robot Control System** — `ARM Assembly` `STM32F407`  
 Real-time movement control + sensor integration on STM32F407, with register-level GPIO configuration.
- 
-**Online Store Website** — `HTML` `CSS` `JavaScript`
+
+**🛒 Online Store Website** — `HTML` `CSS` `JavaScript`  
 E-commerce front-end with shopping cart, responsive design, and vanilla JavaScript.
- 
-**Flowchart System (OOP)** — `C++`
+
+**📊 Flowchart System (OOP)** — `C++`  
 OOP-based flowchart generator applying inheritance, encapsulation, and polymorphism.
  
 ### 🔗 Connect With Me
