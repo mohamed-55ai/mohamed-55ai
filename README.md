@@ -10,7 +10,7 @@
  
 Computer Engineering Student @ Cairo University | 🏆 1st Place – TCCD Research Day (Deepfake Detection) | Aspiring AI/ML Engineer
  
-🔭 &nbsp;I'm currently working on **GramNet/Tracera — Deepfake Detection Research Project**  
+🔭 &nbsp;I'm currently working on **GramNet/Tracera (Deepfake Detection)** & **[Project Voxa](https://github.com/mohamed-55ai/Project_Voxa) (Assistive On-Device AI)**  
 🌱 &nbsp;I'm currently learning **Deep Learning &amp; Applied AI/ML**  
 👯 &nbsp;I'm looking to collaborate on **AI/ML Research &amp; Open-Source Projects**  
 🤔 &nbsp;I'm looking for help with **AI/ML Internships &amp; Research Opportunities**  
@@ -23,6 +23,7 @@ Computer Engineering Student @ Cairo University | 🏆 1st Place – TCCD Resear
 <p align="left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
@@ -42,6 +43,10 @@ Computer Engineering Student @ Cairo University | 🏆 1st Place – TCCD Resear
 Led modeling work on a deepfake detection framework combining Gram matrix eigenvalue analysis (VGG-16) with a dual-head XGBoost classifier for detection + source attribution.  
 `📊 93% AUC` · `86.82% Accuracy` · `160K images, 26+ architectures`  
 🏅 **1st Place** — 15th TCCD Research Day, Cairo University (2025)
+
+**📱 [Project Voxa (فوكسا) — Assistive Vocal Translator](https://github.com/mohamed-55ai/Project_Voxa)** — `Android` `Kotlin` `TensorFlow Lite` `Python`  
+Offline, on-device assistive communication Android app translating personalized vocalizations of non-speaking children into Arabic speech in real time using few-shot prototypical matching and YAMNet embeddings.  
+`🏆 CU AI Nexus Hackathon 2026` · `Healthcare & Inclusive AI`
 
 **☕ [Rawwaq — Smart Coffee Blending Engine](https://github.com/mohamed-55ai/Rawwaq)** · [🌐 Live Demo](https://rawwaq.vercel.app) — `Next.js` `FastAPI` `TypeScript` `Python`  
 Intelligent coffee profiling and roastery recommendation engine powered by Coffee Quality Institute (CQI) data analysis, extraction physics, and authentic Egyptian blends.
