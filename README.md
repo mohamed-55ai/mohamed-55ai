@@ -62,8 +62,8 @@ Curated collection of practical machine learning pipelines, EDA, and model evalu
 **🤖 Medical Robot Control System** — `ARM Assembly` `STM32F407`  
 Real-time movement control + sensor integration on STM32F407, with register-level GPIO configuration.
 
-**🛒 Online Store Website** — `HTML` `CSS` `JavaScript`  
-E-commerce front-end with shopping cart, responsive design, and vanilla JavaScript.
+**🛒 [Al Ahly Online Store](https://github.com/mohamed-55ai/online-store-frontend)** — `HTML` `CSS` `JavaScript` `JSON Server`  
+Responsive e-commerce front-end with shopping cart, local storage authentication, product filtering, and mock REST API.
 
 **📊 Flowchart System (OOP)** — `C++`  
 OOP-based flowchart generator applying inheritance, encapsulation, and polymorphism.
